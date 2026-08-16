@@ -10,7 +10,7 @@ This repository is my personal workspace for organizing the activities and requi
 
 * **Name:** Christopher John Gamboa
 * **Course/Section:** BSIT-2-K
-* **Instructor:** [Instructor's Name]
+* **Instructor:** JENKIELYN TORRES
 * **School Year:** 2026–2027
 
 ## 📖 Key Concepts Covered
