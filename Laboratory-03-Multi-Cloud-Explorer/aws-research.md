@@ -1,4 +1,3 @@
-```markdown
 # Amazon Web Services (AWS) Research
 
 **Student:** Christopher John Gamboa
@@ -57,7 +56,8 @@ AWS can be used by enterprises for:
 
 The AWS homepage or management console screenshot is stored in:
 
-`screenshots/aws-homepage.png`
+<img width="1813" height="802" alt="image" src="https://github.com/user-attachments/assets/d455963d-9e86-4fc6-be07-35cb6e067ba6" />
+
 
 ## Source
 
